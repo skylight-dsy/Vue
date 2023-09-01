@@ -1,0 +1,20 @@
+@charset "utf-8";
+body {
+    margin: 0;
+    padding: 0;
+}
+.el-header {
+    margin: 0;
+    padding: 0;
+    height: 52px;
+}
+.pro-maxwidth {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+img {
+    width: 100%;
+    border: none;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
